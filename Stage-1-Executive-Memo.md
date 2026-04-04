@@ -52,3 +52,4 @@ Next, I will build an Excel model that compares unhedged, forward, money market,
 ## References
 
 EURUSD spot and forward rates: to be sourced from Bloomberg/Yahoo Finance at Stage 2 initiation.
+Eun, C.S. & Resnick, B.G. International Financial Management, 9th ed. McGraw-Hill.
