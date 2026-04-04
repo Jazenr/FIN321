@@ -51,6 +51,4 @@ Next, I will build an Excel model that compares unhedged, forward, money market,
 
 ## References
 
-Yahoo Finance. (2026, April 3). *EUR/USD (EURUSD=X) historical data*.  
-Board of Governors of the Federal Reserve System. (2026, March 18). *FOMC statement*.  
-Federal Reserve Bank of St. Louis. (2026, April 2). *ECB Deposit Facility Rate for Euro Area (ECBDFR)*.
+EURUSD spot and forward rates: to be sourced from Bloomberg/Yahoo Finance at Stage 2 initiation.
